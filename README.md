@@ -43,18 +43,8 @@ Después de la compilación exitosa, haz clic derecho en la clase principal (Mai
 
 ** Estructura del proyecto **
 Esta es la estructura del proyecto.
-evaluacionMod4Java/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── example/
-│   │               └── MainClass.java
-│   └── test/
-│       └── java/
-├── .gitignore
-├── pom.xml
-└── README.md
+
+![Estructura](src/EstructuraProyecto.png)
 
 - src/main/java/: Contiene el código fuente de la aplicación.
 - src/test/java/: Contiene las pruebas unitarias.
