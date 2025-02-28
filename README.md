@@ -1,6 +1,6 @@
 # 📚 Sistema de Gestión de Notas de Alumnos
 
-**Proyecto desarrollado en Java 8 utilizando Maven**. Este sistema permite gestionar las calificaciones de los estudiantes de manera eficiente y organizada. Corresponde a trabajo evaluativo para BootCamp Full Stack Java TalentoDigital 2024.
+**Proyecto desarrollado en Java 18 utilizando Maven**. Este sistema permite gestionar las calificaciones de los estudiantes de manera eficiente y organizada. Corresponde a trabajo evaluativo para BootCamp Full Stack Java TalentoDigital 2024.
 
 ## 📄 Descripción
 
